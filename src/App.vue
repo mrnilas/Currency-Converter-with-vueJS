@@ -16,7 +16,7 @@
     <h3>Letztes Wechselkurs-Update: {{lastUpdate}}</h3>
   </main>
   <footer>
-    build with <a href="https://getgeoapi.com">getgeoapi.com</a> an uploaded on <a href="#">GitHub</a>
+    build with <a href="https://getgeoapi.com">getgeoapi.com</a> an uploaded on <a href="https://github.com/mrnilas/Currency-Converter-with-vueJS">GitHub</a>
   </footer>
 </template>
 
