@@ -67,6 +67,9 @@ export default{
         this.wert_czk=this.wert_euro*this.kurs_czk;
         this.wert_chf=this.wert_euro*this.kurs_chf;
 
+        this.wert_czk=this.wert_czk.toFixed(2)
+        this.wert_chf=this.wert_chf.toFixed(2)
+
         });
 
         
